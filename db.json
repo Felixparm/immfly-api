@@ -1,50 +1,42 @@
 {
   "product": [
     {
-      "id": 1,
-      "label": "chicken sandwich",
-      "Stock": 7,
-      "Price": 8.45,
-      "discountPrice": 6.76,
-      "url": "https://source.unsplash.com/800x600/?chicken%20sandwich"
-    },
-    {
       "id": 2,
       "label": "fruit salad",
-      "Stock": 4,
-      "Price": 5.50,
+      "stock": 4,
+      "price": 5.50,
       "discountPrice": 4.40,
       "url": "https://source.unsplash.com/800x600/?fruit%20salad"
     },
     {
       "id": 3,
       "label": "veggie wraps",
-      "Stock": 6,
-      "Price": 6.25,
+      "stock": 6,
+      "price": 6.25,
       "discountPrice": 5.00,
       "url": "https://source.unsplash.com/800x600/?veggie%20wrap"
     },
     {
       "id": 4,
       "label": "chicken wraps",
-      "Stock": 3,
-      "Price": 7.80,
+      "stock": 3,
+      "price": 7.80,
       "discountPrice": 6.24,
       "url": "https://source.unsplash.com/800x600/?chicken%20wrap"
     },
     {
       "id": 5,
       "label": "cheese burger",
-      "Stock": 9,
-      "Price": 9.10,
+      "stock": 9,
+      "price": 9.10,
       "discountPrice": 7.28,
       "url": "https://source.unsplash.com/800x600/?cheeseburger"
     },
     {
       "id": 6,
       "label": "veggie burger",
-      "Stock": 2,
-      "Price": 6.75,
+      "stock": 2,
+      "price": 6.75,
       "discountPrice": 5.40,
       "url": "https://source.unsplash.com/800x600/?veggie%20burger"
     }
