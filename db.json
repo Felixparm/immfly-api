@@ -1,6 +1,14 @@
 {
   "product": [
     {
+      "id": 1,
+      "label": "chicken sandwich",
+      "Stock": 7,
+      "Price": 8.45,
+      "discountPrice": 6.76,
+      "url": "https://source.unsplash.com/800x600/?chicken%20sandwich"
+    },
+    {
       "id": 2,
       "label": "fruit salad",
       "stock": 4,
