@@ -47,6 +47,14 @@
       "price": 6.75,
       "discountPrice": 5.40,
       "url": "https://source.unsplash.com/800x600/?veggie%20burger"
+    },
+    {
+      "id": 7,
+      "label": "chocolate cake",
+      "stock": 0,
+      "price": 4,
+      "discountPrice": 3,
+      "url": "https://source.unsplash.com/800x600/?veggie%20burger"
     }
   ]
 }
