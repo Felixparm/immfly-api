@@ -55,6 +55,13 @@
       "price": 4,
       "discountPrice": 3,
       "url": "https://source.unsplash.com/800x600/?veggie%20burger"
+    },
+    
+  ],
+    "payments": 
+    {
+      "status": "success",
+      "message": "Payment processed successfully."
     }
-  ]
+  ,
 }
