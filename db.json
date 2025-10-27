@@ -58,10 +58,9 @@
     },
     
   ],
-    "payments": 
+    "payment": 
     {
       "status": "success",
       "message": "Payment processed successfully."
     }
-  ,
 }
