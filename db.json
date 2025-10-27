@@ -3,7 +3,8 @@
     {
       "id": 1,
       "label": "chicken sandwich",
-      "stock": 7,
+      "Stock": 7,
+      "Price": 8.45,
       "price": 8.45,
       "discountPrice": 6.76,
       "url": "https://source.unsplash.com/800x600/?chicken%20sandwich"
@@ -55,7 +56,6 @@
       "price": 4,
       "discountPrice": 3,
       "url": "https://source.unsplash.com/800x600/?veggie%20burger"
-    },
-    
+    }
   ]
 }
